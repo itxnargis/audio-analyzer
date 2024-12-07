@@ -104,4 +104,4 @@ If you'd like to contribute to this project, feel free to fork the repository an
 
 - Created by [Nargis](https://github.com/itxnargis)
 - Email: [Mail](mailto:itxnargiskhatun@gmail.com)
-- Website: [Live demo]([https://your-website.com](https://spotify-music-finder-eight.vercel.app/))
+- Website: [Live demo](https://spotify-music-finder-eight.vercel.app/)
